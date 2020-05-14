@@ -1,0 +1,9 @@
+var {
+    font-style: normal;
+}
+
+body {
+    border: solid yellow;
+    display: inline-block;
+    padding: 15px 15px 15px 15px;
+}
